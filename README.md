@@ -2,7 +2,7 @@
 
 [中文](./README.zh-CN.md)
 
-# Obsidian Time Tracker
+# Simple Time Tracker
 
 <!-- Badges -->
 <p align="left">

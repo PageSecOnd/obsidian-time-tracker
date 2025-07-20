@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-time-tracker",
+	"name": "time-tracker",
 	"version": "1.0.0",
 	"description": "Elegant time tracker plugin for Obsidian, with levels and heatmap visualization.",
 	"main": "main.js",
