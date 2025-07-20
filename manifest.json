@@ -6,6 +6,5 @@
 	"description": "Elegant time tracker with levels and heatmap visualization.",
 	"author": "PageSecOnd",
 	"authorUrl": "https://github.com/PageSecOnd",
-	"isDesktopOnly": false,
-	"main": "main.js"
+	"isDesktopOnly": false
 }
