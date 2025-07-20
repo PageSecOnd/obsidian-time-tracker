@@ -16,7 +16,12 @@
     <img src="https://img.shields.io/github/stars/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=star" alt="Stars"/>
   </a>
   <a href="https://github.com/PageSecOnd/obsidian-time-tracker/issues">
-    <img src="https://img.shields.io/github/issues/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github-issues" alt="Issues"/>
+    <img src="https://img.shields.io/github/issues/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github" alt="Issues"/>
+  </a>
+</p>
+<p>
+  <a href="https://wakatime.com/badge/github/PageSecOnd/obsidian-time-tracker">
+    <img src="https://wakatime.com/badge/github/PageSecOnd/obsidian-time-tracker.svg" alt="wakatime"/>
   </a>
 </p>
 
