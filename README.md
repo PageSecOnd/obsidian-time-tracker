@@ -1,10 +1,26 @@
-# Obsidian Time Tracker Plugin
-
 ![Logo](assets/logo.png)
 
-[中文文档](./README.zh-CN.md)
+[中文](./README.zh-CN.md)
 
-A simple and elegant time tracking plugin for Obsidian, designed to help you monitor and gamify your study, work, or any activity time. It features session tracking, level-up progress, a heatmap visualization, and flexible settings—all with a focus on usability and customization.
+# Obsidian Time Tracker
+
+<!-- Badges -->
+<p align="left">
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/releases">
+    <img src="https://img.shields.io/github/v/release/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github" alt="Latest Release"/>
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=open-source-initiative" alt="License" />
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/">
+    <img src="https://img.shields.io/github/stars/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=star" alt="Stars"/>
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/issues">
+    <img src="https://img.shields.io/github/issues/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github-issues" alt="Issues"/>
+  </a>
+</p>
+
+> A simple and elegant time tracking plugin for Obsidian, designed to help you monitor and gamify your study, work, or any activity time. It features session tracking, level-up progress, a heatmap visualization, and flexible settings—all with a focus on usability and customization.
 
 ---
 
@@ -123,4 +139,4 @@ by PageSecOnd
 
 ## License
 
-MIT
+MIT © [PageSecOnd]

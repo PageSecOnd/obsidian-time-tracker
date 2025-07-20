@@ -1,10 +1,26 @@
-# Obsidian 时间追踪插件
-
 ![Logo](assets/logo.png)
 
-[English Documentation](./README.md)
+[English](./README.md)
 
-一个简洁优雅的 Obsidian 时间追踪插件，帮助你记录、激励和可视化你的学习或工作时长。支持会话追踪、等级进度、热力图、丰富的设置项，专为易用性和个性化体验而设计。
+# Obsidian Time Tracker
+
+<!-- Badges -->
+<p align="left">
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/releases">
+    <img src="https://img.shields.io/github/v/release/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github" alt="Latest Release"/>
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=open-source-initiative" alt="License" />
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/">
+    <img src="https://img.shields.io/github/stars/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=star" alt="Stars"/>
+  </a>
+  <a href="https://github.com/PageSecOnd/obsidian-time-tracker/issues">
+    <img src="https://img.shields.io/github/issues/PageSecOnd/obsidian-time-tracker?style=for-the-badge&logo=github-issues" alt="Issues"/>
+  </a>
+</p>
+
+> 一个简洁优雅的 Obsidian 时间追踪插件，帮助你记录、激励和可视化你的学习或工作时长。支持会话追踪、等级进度、热力图、丰富的设置项，专为易用性和个性化体验而设计。
 
 ---
 
@@ -120,4 +136,4 @@ by PageSecOnd
 
 ## 开源协议
 
-MIT
+MIT © [PageSecOnd]
