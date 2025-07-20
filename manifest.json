@@ -1,7 +1,7 @@
 {
-	"id": "time-tracker",
-	"name": "Time Tracker",
-	"version": "1.0.1",
+	"id": "obsidian-time-tracker",
+	"name": "Obsidian Time Tracker",
+	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
 	"description": "Elegant time tracker with levels and heatmap visualization.",
 	"author": "PageSecOnd",
